@@ -27,9 +27,27 @@ I'm a passionate **DevOps Engineer** with over 3 years of experience in building
 💡 **Looking for:** Open Source Collaborations, Networking, and Knowledge Sharing  
 
 📩 **Reach out to me:**  
-- 🔗 **LinkedIn:** (www.linkedin.com/in/praveendhuddu)  
+- 🔗 **LinkedIn:** (www.linkedin.com/in/praveendhuddu)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praveendhuddu/)
 - 💻 **GitHub:** (https://github.com/praveen123d)
+- 💻 **Email:**  (duddupraveen1@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duddupraveen1@gmail.com)
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praveendhuddu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duddupraveen1@gmail.com)
 
 🚀 **Follow me on GitHub** and let's innovate together 🎯
+
+
+
+- 🔗 **LinkedIn:** (www.linkedin.com/in/praveendhuddu)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praveendhuddu/)
+
+- 💻 **GitHub:** (https://github.com/praveen123d)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/praveen123d)
+
+- 💻 **Email:** (duddupraveen1@gmail.com)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duddupraveen1@gmail.com)
 
 
