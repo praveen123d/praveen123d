@@ -27,8 +27,8 @@ I'm a passionate **DevOps Engineer** with over 3 years of experience in building
 💡 **Looking for:** Open Source Collaborations, Networking, and Knowledge Sharing  
 
 📩 **Reach out to me:**  
-- 🔗 **LinkedIn:** (https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
-- 💻 **GitHub:** (https://github.com/BharathKumarReddy2103)    
+- 🔗 **LinkedIn:** (www.linkedin.com/in/praveendhuddu)  
+- 💻 **GitHub:** (https://github.com/praveen123d)
 
 🚀 **Follow me on GitHub** and let's innovate together 🎯
 
