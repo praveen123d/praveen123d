@@ -36,5 +36,4 @@ I'm a passionate **DevOps Engineer** with over 3 years of hands-on experience in
 
 🚀 **Follow me on GitHub** and let's innovate together 🎯
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=praveen123d)
-
+![Visitor Count](https://count.getloli.com/get/@praveen123d?theme=rule34)
